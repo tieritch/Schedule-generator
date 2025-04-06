@@ -108,5 +108,3 @@ for (let prof in schedule.profs) {
     console.log(`  ${key} : ${subject}`);
   });
 }
-console.log('Hello Git')
-console.log("Hello git master")
