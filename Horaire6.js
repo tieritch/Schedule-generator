@@ -90,7 +90,7 @@ courses.forEach(course => {
 // Display schedule by class
 console.log("\n=== Weekly Schedule by Class ===");
 for (let className in schedule.classes) {
-  console.log(`\n${className}:`);
+  console.log(`\n${className}:\kjhgkjh`);
   orderedTimeSlots.forEach(slot => {
     const key = slotKey(slot);
     const subject = schedule.classes[className][key] || "Free";
